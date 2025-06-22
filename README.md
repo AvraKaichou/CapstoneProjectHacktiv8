@@ -5,7 +5,8 @@ Capstone Project For Hacktiv8's Data CLassification and Summarization
 
 Proyek ini bertujuan untuk mengotomatisasi proses analisis konten dari dataset berita (`News Dataset.csv`). Dengan memanfaatkan kecerdasan buatan, proyek ini mampu mengklasifikasikan sentimen setiap berita (Positif, Negatif, Netral) dan menghasilkan ringkasan singkat dari isinya. Solusi ini membantu dalam memahami sejumlah besar data teks secara efisien, yang secara manual akan memakan waktu lama.
 
-* **Raw Dataset Link:** [News Dataset.csv](https://github.com/NAMA_USER_ANDA/NAMA_REPO_ANDA/blob/main/News%20Dataset.csv) (Ganti link ini setelah Anda upload)
+* **Raw Dataset Link:**
+* [News Dataset.csv]https://github.com/AvraKaichou/CapstoneProjectHacktiv8/blob/0ea855df6d5a1e0f4d5e0eb629a61b2a4464d49a/News%20Dataset.csv
 
 ## AI Support Explanation
 
