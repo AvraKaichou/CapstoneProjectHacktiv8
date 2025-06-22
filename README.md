@@ -28,9 +28,9 @@ Alur kerja analisis proyek ini adalah sebagai berikut:
 
 Berdasarkan analisis pada sampel data, ditemukan beberapa wawasan utama:
 
-1.  **Distribusi Sentimen:** Analisis menunjukkan bahwa mayoritas berita dalam dataset memiliki sentimen **Netral** (60%), diikuti oleh **Positif** (30%) dan **Negatif** (10%). *(Ganti angka ini sesuai hasil dari kode visualisasi Anda)*
+1.  **Distribusi Sentimen:** Analisis menunjukkan bahwa mayoritas berita dalam dataset memiliki sentimen **Netral** (60%), diikuti oleh **Positif** (30%) dan **Negatif** (10%). 
 2.  **Visualisasi:**
-    https://github.com/AvraKaichou/CapstoneProjectHacktiv8/blob/de6965395103a2493f8832a43fa7bf29b9a43cdb/DistributionResults 
+   Visualisasi Terdapat pada File IPYNB Yang sudah diberikan
 3.  **Interpretasi:** Tingginya sentimen netral mengindikasikan bahwa sebagian besar berita disajikan secara faktual. Sentimen positif seringkali terkait dengan peluncuran teknologi baru atau pencapaian bisnis, sedangkan sentimen negatif terkait dengan masalah atau kritik.
 
 ## Conclusion & Recommendations
